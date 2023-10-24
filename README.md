@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Ahmad Sadik</h1>
 <h2>I'm an Artificial Intelligence Specialist with expertise in Machine Learning</h2>
-<img align="right" alt="Coding" width="180" src="https://media0.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif">
+<img align="right" alt="Coding" width="180" src="https://media0.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" style="margin-top: 20px;">
+
 
 
 - 🔭 I’m currently working on **Machine Learning projects.**
