@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ahmad2002sadik@gmail.com**
 
-- 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it to
+- 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people
 
 
 <hr>
